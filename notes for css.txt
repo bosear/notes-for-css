@@ -28,3 +28,4 @@ ccылки  https://css-tricks.com/perfect-full-page-background-image/
 		https://www.w3schools.com/howto/howto_css_full_page.asp
 		http://frontender.com.ua/mobile-web/wtf-viewport/
 		http://front-end.su/2015/10/07/viewport-units-vs-percent/
+		https://habrahabr.ru/post/189252/
