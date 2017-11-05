@@ -20,3 +20,11 @@ background-cover расстягивает, но вроде как сохраняет пропорции
 		background-size: cover;
 	}
 	Для wrapper-а уже не сработает(
+3)
+	Поставить элементу - wrapper-у height: 100vh;
+	
+ccылки  https://css-tricks.com/perfect-full-page-background-image/
+		https://superdevresources.com/full-background-image-css/
+		https://www.w3schools.com/howto/howto_css_full_page.asp
+		http://frontender.com.ua/mobile-web/wtf-viewport/
+		http://front-end.su/2015/10/07/viewport-units-vs-percent/
