@@ -1,0 +1,22 @@
+Background фон картинку на всю страницу:
+////////////////////////////////////////
+высота в браузере:
+viewport->html->body
+по умолчанию всегда авто - сжимаетс€ под контент, нет контента - нет высоты
+чтобы отобразить элеммент на всю страницу необходимо <html> задать высоту 100% (будет в таком случае брать от экрана - viewport-а)
+background-cover расст€гивает, но вроде как сохран€ет пропорции
+ƒва решени€:
+1) 
+	html, body {
+		height: 100%;
+	}
+	.wrapper {
+		background: url('background.jpg') no-repeat;
+		background-size: 100% 100%; // or cover
+		height: 100%;
+	}
+2)  body { // or html
+		background: url(new-york-background.jpg) no-repeat center center fixed;
+		background-size: cover;
+	}
+	ƒл€ wrapper-а уже не сработает(

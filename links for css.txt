@@ -1,0 +1,15 @@
+https://www.theleagueofmoveabletype.com/ - бесплатные web-шрифты
+google.com/webfonts - бесплатные web-шрифты
+tinyurl.com/b56z7zq - транслятор шрифтов из одних форматов в другие
+http://hslpicker.com/#0d0099 - для hsl/rgba/rgb преобразования
+tinyurl.com/ng39zb9 - контрастность в css
+https://htmlacademy.ru/courses/43/run/15 - вертикальный ритм
+http://webexpedition18.com/articles/css3-text-shadow-property/ - примеры text-shadow
+http://css-live.ru/css/metriki-shrifta-line-height-vertical-align.html - что-то о line-height-e
+foter.com - бесплатные фотографии
+morguefile.com - тоже фотки
+freeimages.com  - тоже фотки
+unsplash.com - тоже фотки
+openphoto.net - тоже фотки
+flaticon.com - иконки
+tinyurl.com/5kwqqd, tinyurl.com/6dva2f, tinyurl.com/6dva2f - мозаичный фон
